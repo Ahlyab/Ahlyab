@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 <!-- <p align="center"><img src="![](https://komarev.com/ghpvc/?username=ahlyab&color=green)" width="600" height="300"  /></p> -->
-[!(https://komarev.com/ghpvc/?username=Ahlyab&style=for-the-badge&color=brightgreen)]
+<!-- [!(https://komarev.com/ghpvc/?username=Ahlyab&style=for-the-badge&color=brightgreen)] -->
 <!-- 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
