@@ -1,6 +1,4 @@
-env:
-  GITHUB_TOKEN: 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
-  USERNAME: Ahlyab
+
 name: GitHub-Profile-3D-Contrib
 
 on:
