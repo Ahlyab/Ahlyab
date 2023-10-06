@@ -51,4 +51,4 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-<!-- [![An image of @ahlyab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahlyab)](https://holopin.io/@ahlyab) -->
+[![An image of @ahlyab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahlyab)](https://holopin.io/@ahlyab)
