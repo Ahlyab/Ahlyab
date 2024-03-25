@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ahalyab-asad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahalyab-asad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahlyab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahlyab" height="30" width="40" /></a>
-<a href="https://discord.gg/702250677530788031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="702250677530788031" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/702250677530788031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="702250677530788031" height="30" width="40" /></a>
 </p>
 
 ### 🔥 &nbsp; My Stats :
