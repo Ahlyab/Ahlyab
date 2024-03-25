@@ -26,7 +26,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlyab&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
+<!--
 <h1>HacktoberFest 2023 - Holopin Board</h1>
 
-[![An image of @ahlyab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahlyab)](https://holopin.io/@ahlyab)
+[![An image of @ahlyab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahlyab)](https://holopin.io/@ahlyab) -->
