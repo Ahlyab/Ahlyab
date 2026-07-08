@@ -28,6 +28,9 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlyab&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+### :writing_hand: Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!--
 <h1>HacktoberFest 2023 - Holopin Board</h1>
 
